@@ -121,7 +121,7 @@ sns.barplot(
 plt.title("Top Kategori Produk Berdasarkan Jumlah Pesanan")
 ax.set_xlabel('')
 ax.set_ylabel('')
-st.pyplot(fig)
+st.pyplot(fig)Test, 
 
 st.subheader("P2: Bagaimana pola pembelian harian, mingguan, atau bulanan? Apakah ada waktu tertentu dengan volume penjualan yang tinggi?")
 st.write("a. Tren Penjualan Tahunan")
